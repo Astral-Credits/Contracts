@@ -1,5 +1,6 @@
 # AstralCredits-Contracts
-Flattened source code for smart contracts relating to the Astral Credits (XAC) project on the SONGBIRD network.
+Flattened smart contract source code for the Astral Credits (XAC) project on the SONGBIRD network.
 
-ERC20 Token Contract (MyToken.sol)
-Pixel Planet DApp Contract (Tiles.sol)
+[ERC20 Token Contract (MyToken.sol)](https://github.com/HelloMokuzai/AstralCredits-Contracts/blob/main/AstralCredits.sol)
+
+[Pixel Planet DApp Contract (Tiles.sol)](https://github.com/HelloMokuzai/AstralCredits-Contracts/blob/main/Tiles.sol)
