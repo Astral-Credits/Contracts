@@ -9,6 +9,6 @@ Nishi ERC20 Token Contract: [Nishi.sol](https://github.com/Astral-Credits/Contra
 
 Astral Credits Multi-Send (Songbird) Contract: [AstralCreditsMultiSend-Songbird.sol](https://github.com/Astral-Credits/Contracts/blob/main/AstralCreditsMultiSend-Songbird.sol) - [View on Explorer](https://songbird-explorer.flare.network/address/0x6bDA41F88aDadF96F3149F75dc6ADB0351D4fa1b) - by [Prussia](https://github.com/stjet) 
 
-Astral Credits Multi-Send (Flare) Contract: [AstralCreditsMultiSend-Flare.sol](https://github.com/Astral-Credits/Contracts/blob/main/AstralCreditsMultiSend-Songbird.sol) - [View on Explorer](https://flare-explorer.flare.network/address/0x93CA88Ee506096816414078664641C07aF731026) - by [Prussia](https://github.com/stjet) 
+Astral Credits Multi-Send (Flare) Contract: [AstralCreditsMultiSend-Flare.sol](https://github.com/Astral-Credits/Contracts/blob/main/AstralCreditsMultiSend-Flare.sol) - [View on Explorer](https://flare-explorer.flare.network/address/0x93CA88Ee506096816414078664641C07aF731026) - by [Prussia](https://github.com/stjet) 
 
 **All live contracts are verified on the SONGBIRD blockchain explorer ✅**
